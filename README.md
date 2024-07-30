@@ -34,7 +34,7 @@
 <h3>Шари</h3>
 
 ___
-![Nesting][https://github.com/CumMbILLI/FSD/blob/main/src/shared/assets/Nesting.png]
+<img src="https://github.com/CumMbILLI/FSD/blob/main/src/shared/assets/Nesting.png?raw=true" width=80% class="position: absolute">
 
 + **Розділяється рівень.** Містить різні ресурси для повторного використання, які залежать від функціонування бізнес-логіки.
 + **Відмінні приклади таких елементів** - інструменти для роботи з UI, допоміжні функції, логери.
