@@ -14,8 +14,8 @@
     + :page_facing_up: index
   + :file_folder: settings
 + :file_folder: widgets
-  + file_folder: pagination
-  + file_folder: slider
+  + :file_folder: pagination
+  + :file_folder: slider
 + :file_folder: features
   + :file_folder: cart
   + :file_folder: search
